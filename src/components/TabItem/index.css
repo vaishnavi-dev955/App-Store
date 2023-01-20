@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.button1 {
+  color: #7b8794;
+  font-size: 30px;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.activeClass {
+  color: #2563eb;
+  font-size: 30px;
+  border-width: 0px;
+  background-color: transparent;
+}
